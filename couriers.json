@@ -1,191 +1,191 @@
 [
-{
-"code": "dse",
-"name": "21 Express",
-"badge": "21EXP",
-"category": "Reguler / Sameday",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "anteraja",
-"name": "Anteraja",
-"badge": "ANTERAJA",
-"category": "Reguler / Sameday",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/lidaejvolekvgdoswcfd.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "gosend",
-"name": "Gosend",
-"badge": "GOSEND",
-"category": "Instant / Sameday",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/px9tk7s47frenb3fxkjw.png",
-"rajaongkir": false,
-"is_active": true
-},
-{
-"code": "grab",
-"name": "Grab Express",
-"badge": "GRAB",
-"category": "Instant / Sameday",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778860686/general/logo/zhfeqwl0yzhiulqrqwdq.png",
-"rajaongkir": false,
-"is_active": true
-},
-{
-"code": "ide",
-"name": "IDExpress",
-"badge": "IDE",
-"category": "Reguler / Sameday",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "jnt",
-"name": "J&T Express",
-"badge": "J&T",
-"category": "Reguler / EZ",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151904/general/logo/nqo2amxpfg2mhelcseqt.svg",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "jne",
-"name": "JNE Express",
-"badge": "JNE",
-"category": "Reguler / OKE / YES",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769152187/general/logo/rl6akethuu742sry0io7.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "lion",
-"name": "Lion Parcel",
-"badge": "LION",
-"category": "Reguler / Onepack",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/ofv2pughen4lfw7fryiz.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "ncs",
-"name": "NCS Courier",
-"badge": "NCS",
-"category": "Reguler / Cargo",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "ninja",
-"name": "Ninja Xpress",
-"badge": "NINJA",
-"category": "Reguler / COD",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "paxel",
-"name": "Paxel",
-"badge": "PAXEL",
-"category": "Sameday / Cold Chain",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778861227/general/logo/svtwpjgimtjq7u9kqijs.png",
-"rajaongkir": false,
-"is_active": true
-},
-{
-"code": "pos",
-"name": "POS Indonesia",
-"badge": "POS",
-"category": "Reguler / Jumbo",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/bdvacatcflngtzegmimo.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "rex",
-"name": "REX Express",
-"badge": "REX",
-"category": "Express / Cargo",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "rpx",
-"name": "RPX Holding",
-"badge": "RPX",
-"category": "Reguler / Paket",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "sap",
-"name": "SAP Express",
-"badge": "SAP",
-"category": "Reguler / Cargo",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "sentral",
-"name": "Sentral Cargo",
-"badge": "SENTRAL",
-"category": "Cargo Darat / Udara",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "sicepat",
-"name": "SiCepat Ekspres",
-"badge": "SICEPAT",
-"category": "Reguler / Cargo",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/rncwjotpbgwoawt3dxzh.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "spx",
-"name": "SPX Express",
-"badge": "SPX",
-"category": "Standard / Hemat",
-"logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236803/general/logo/eyfx326ibo7t9mokuuni.png",
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "star",
-"name": "Star Cargo",
-"badge": "STAR",
-"category": "Cargo Domestik",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "tiki",
-"name": "TIKI",
-"badge": "TIKI",
-"category": "Reguler / ONS",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-},
-{
-"code": "wahana",
-"name": "Wahana Express",
-"badge": "WAHANA",
-"category": "Ekonomi / Reguler",
-"logo": null,
-"rajaongkir": true,
-"is_active": true
-}
+    {
+        "code": "dse",
+        "name": "21 Express",
+        "badge": "21EXP",
+        "category": "Reguler / Sameday",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870444/general/logo/courier/lkhbqokrkivjdoqeyjlk.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "anteraja",
+        "name": "Anteraja",
+        "badge": "ANTERAJA",
+        "category": "Reguler / Sameday",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/courier/lidaejvolekvgdoswcfd.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "gosend",
+        "name": "Gosend",
+        "badge": "GOSEND",
+        "category": "Instant / Sameday",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/courier/px9tk7s47frenb3fxkjw.png",
+        "rajaongkir": false,
+        "is_active": true
+    },
+    {
+        "code": "grab",
+        "name": "Grab Express",
+        "badge": "GRAB",
+        "category": "Instant / Sameday",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778860686/general/logo/courier/zhfeqwl0yzhiulqrqwdq.png",
+        "rajaongkir": false,
+        "is_active": true
+    },
+    {
+        "code": "ide",
+        "name": "IDExpress",
+        "badge": "IDE",
+        "category": "Reguler / Sameday",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870444/general/logo/courier/qxcxuxd1oldx6pflll8j.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "jnt",
+        "name": "J&T Express",
+        "badge": "J&T",
+        "category": "Reguler / EZ",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151904/general/logo/courier/nqo2amxpfg2mhelcseqt.svg",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "jne",
+        "name": "JNE Express",
+        "badge": "JNE",
+        "category": "Reguler / OKE / YES",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769152187/general/logo/courier/rl6akethuu742sry0io7.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "lion",
+        "name": "Lion Parcel",
+        "badge": "LION",
+        "category": "Reguler / Onepack",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/courier/ofv2pughen4lfw7fryiz.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "ncs",
+        "name": "NCS Courier",
+        "badge": "NCS",
+        "category": "Reguler / Cargo",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870444/general/logo/courier/ygtqiren66wy9sdzhgvj.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "ninja",
+        "name": "Ninja Xpress",
+        "badge": "NINJA",
+        "category": "Reguler / COD",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870443/general/logo/courier/kv8bl6aqqn7sokqzo44w.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "paxel",
+        "name": "Paxel",
+        "badge": "PAXEL",
+        "category": "Sameday / Cold Chain",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778861227/general/logo/courier/svtwpjgimtjq7u9kqijs.png",
+        "rajaongkir": false,
+        "is_active": true
+    },
+    {
+        "code": "pos",
+        "name": "POS Indonesia",
+        "badge": "POS",
+        "category": "Reguler / Jumbo",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/courier/bdvacatcflngtzegmimo.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "rex",
+        "name": "REX Express",
+        "badge": "REX",
+        "category": "Express / Cargo",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870443/general/logo/courier/qmebycpcoq18tcwzwstv.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "rpx",
+        "name": "RPX Holding",
+        "badge": "RPX",
+        "category": "Reguler / Paket",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870443/general/logo/courier/zc1nrmsonjndjpigh3ea.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "sap",
+        "name": "SAP Express",
+        "badge": "SAP",
+        "category": "Reguler / Cargo",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870443/general/logo/courier/grjsfimr38ivcvatsywh.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "sentral",
+        "name": "Sentral Cargo",
+        "badge": "SENTRAL",
+        "category": "Cargo Darat / Udara",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870442/general/logo/courier/cu34iyccboq6n9ee7km4.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "sicepat",
+        "name": "SiCepat Ekspres",
+        "badge": "SICEPAT",
+        "category": "Reguler / Cargo",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/courier/rncwjotpbgwoawt3dxzh.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "spx",
+        "name": "SPX Express",
+        "badge": "SPX",
+        "category": "Standard / Hemat",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236803/general/logo/courier/eyfx326ibo7t9mokuuni.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "star",
+        "name": "Star Cargo",
+        "badge": "STAR",
+        "category": "Cargo Domestik",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870443/general/logo/courier/vvyvngpvwpl0szkbli7v.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "tiki",
+        "name": "TIKI",
+        "badge": "TIKI",
+        "category": "Reguler / ONS",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870442/general/logo/courier/hjdbxc2siakoqeqjzmkn.png",
+        "rajaongkir": true,
+        "is_active": true
+    },
+    {
+        "code": "wahana",
+        "name": "Wahana Express",
+        "badge": "WAHANA",
+        "category": "Ekonomi / Reguler",
+        "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1789870442/general/logo/courier/utjh42f2vyxcnhjat071.png",
+        "rajaongkir": true,
+        "is_active": true
+    }
 ]
